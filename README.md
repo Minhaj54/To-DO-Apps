@@ -1,16 +1,6 @@
-# pet_medical
+#  Min To-Dos App
 
-A new Flutter project.
+It is a flutter project where I have made a todo app by using Firebase as a backend. This app has some simple features that a todo app must have also I have performed a CRUD operation.
+![homepage](https://github.com/Minhaj54/To-DO-Apps/assets/55955980/b24e3cb7-ab41-4b14-80cf-d3274a0cf898)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
